@@ -70,7 +70,7 @@ AI-powered RFP Intelligence System that automates tender document processing usi
 
 **Tech Stack**
 
-Python • FastAPI • MongoDB • LLM
+React • FastAPI • MongoDB • LLM
 
 <p>
 <a href="https://github.com/Angane2004/TenderAgent">
@@ -108,7 +108,7 @@ AI-powered financial transaction categorization platform using NLP.
 
 **Tech Stack**
 
-Python • MongoDB • NLP
+Python • Typecript • NLP
 
 <p>
 <a href="https://github.com/Angane2004/Transact_AI">
@@ -120,13 +120,19 @@ Python • MongoDB • NLP
 
 <td width="50%">
 
-### Current Focus
+### SwasthyaSense
 
-- Building AI-powered applications
-- Backend API development
-- Cloud & Docker
-- System Design
-- Open Source
+AI-powered hospital resource management and prediction platform designed for modern healthcare institutions.
+
+**Tech Stack**
+
+Next.js • React • Typecript
+
+<p>
+<a href="https://github.com/Angane2004/Transact_AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angane2004&repo=Swasthyasense&theme=github_dark&hide_border=true" />
+</a>
+</p>
 
 </td>
 </tr>
