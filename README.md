@@ -70,73 +70,100 @@ I enjoy transforming ideas into production-ready applications by combining moder
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Tender AI
 
-AI-powered RFP Intelligence System that automates tender document processing using Large Language Models.
+AI-powered RFP Intelligence System that automates tender discovery, document processing, and response generation using Large Language Models.
+
+**Highlights**
+
+- Automated tender document analysis
+- Intelligent requirement extraction
+- REST APIs built with FastAPI
+- MongoDB integration for structured data
+- Web scraping and document processing pipeline
 
 **Tech Stack**
 
-Python • FastAPI • MongoDB • LLM
+`Python` `FastAPI` `MongoDB` `LLMs`
 
-<p>
+<br>
+
 <a href="https://github.com/Angane2004/TenderAgent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angane2004&repo=TenderAgent&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angane2004&repo=TenderAgent&theme=github_dark&hide_border=true"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### MockAI
 
-AI Interview Assistant built with Ollama, Gemini, Firebase, and Next.js.
+An AI-powered interview platform that generates technical interviews, evaluates responses in real time, and provides personalized feedback using local and cloud-based LLMs.
+
+**Highlights**
+
+- AI-generated interview questions
+- Real-time answer evaluation
+- Ollama integration with Gemini fallback
+- Anti-cheating detection
+- Firebase Authentication & Database
 
 **Tech Stack**
 
-React • Next.js • TypeScript • Docker
+`Next.js` `React` `TypeScript` `Firebase` `Docker` `Ollama`
 
-<p>
+<br>
+
 <a href="https://github.com/Angane2004/mockai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angane2004&repo=mockai&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angane2004&repo=mockai&theme=github_dark&hide_border=true"/>
 </a>
-</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### TransactAI
 
-AI-powered financial transaction categorization platform using NLP.
+AI-powered financial transaction categorization platform that extracts SMS notifications, classifies expenses, and generates financial insights.
+
+**Highlights**
+
+- SMS transaction extraction
+- NLP-powered categorization
+- Financial analytics dashboard
+- REST API integration
+- MongoDB data storage
 
 **Tech Stack**
 
-Python • MongoDB • NLP
+`Python` `MongoDB` `NLP`
 
-<p>
+<br>
+
 <a href="https://github.com/Angane2004/Transact_AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angane2004&repo=Transact_AI&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angane2004&repo=Transact_AI&theme=github_dark&hide_border=true"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Current Focus
+### What I'm Currently Working On
 
-- Building AI-powered applications
-- Backend API development
-- Cloud & Docker
-- System Design
-- Open Source
+- Building production-ready AI applications
+- Exploring Agentic AI workflows
+- Learning System Design
+- Improving backend architecture
+- Strengthening Data Structures & Algorithms
 
 </td>
+
 </tr>
 </table>
 
