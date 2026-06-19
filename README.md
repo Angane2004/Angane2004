@@ -1,14 +1,6 @@
 <!-- Banner -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=1800&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&hide_cursor=true&width=700&height=60&lines=Tanveer+Angane" alt="Typing Name"/> </p> <p align="center"> <strong>Software Engineer • Full Stack Developer • AI & Machine Learning</strong> </p> <p align="center"> Building scalable software, modern web applications, and AI-powered solutions. </p>
 
-<h1 align="center">Hi, I'm Tanveer Angane</h1>
-
-<p align="center">
-  <strong>Full Stack Developer • AI & Machine Learning Engineer</strong>
-</p>
-
-<p align="center">
-  Passionate about building scalable web applications, AI-powered solutions, and intuitive user experiences.
-</p>
 
 <p align="center">
   <a href="mailto:anganetanveer@gmail.com">
